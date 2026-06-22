@@ -1,6 +1,6 @@
 # Bazzite-Gnome &nbsp; [![bluebuild build badge](https://github.com/toughdblue/bazzite-gnome/actions/workflows/build.yml/badge.svg)](https://github.com/toughdblue/bazzite-gnome/actions/workflows/build.yml)
 
-This is a custom Bazzite-Gnome image that includes Brave Origin Beta. Further customization may come in the future.
+This is a custom Bazzite-Gnome image that includes Brave Origin Stable. Further customization may come in the future.
 
 ## Installation
 
