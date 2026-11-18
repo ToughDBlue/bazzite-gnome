@@ -21,7 +21,7 @@ modules:
         - brave-origin
 
   - type: script
-    commands:
+    snippets:
       - |
         cat > /etc/yum.repos.d/nextcloud-office.repo << 'EOF'
         [nextcloud-office]
