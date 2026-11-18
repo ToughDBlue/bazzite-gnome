@@ -20,6 +20,14 @@ modules:
       packages:
         - brave-origin
 
+- type: dnf
+    repos:
+      files:
+        - https://download.nextcloud.com/office/repo/rpm/stable/nextcloud-office.repo
+    install:
+      packages:
+        - nextcloud-office-nextcloudoffice
+
 #  - type: script
 #    snippets:
 #      - "curl -fsSL https://raw.githubusercontent.com/yannmasoch/nautilus-my-computer/main/install.sh | sh"
