@@ -20,7 +20,7 @@ modules:
       packages:
         - brave-origin
 
-- type: dnf
+  - type: dnf
     repos:
       files:
         - https://download.nextcloud.com/office/repo/rpm/stable/nextcloud-office.repo
